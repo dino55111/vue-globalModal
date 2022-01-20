@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "kisstkondoros.vscode-codemetrics",
+    "octref.vetur",
+    "streetsidesoftware.code-spell-checker",
+    "teamchilla.blueprint",
+    "hex-ci.stylelint-plus",
+    "christian-kohler.path-intellisense",
+    "bradlc.vscode-tailwindcss",
+    "eamodio.gitlens",
+    "adam-bender.commit-message-editor"
+  ]
+}
